@@ -1,0 +1,14 @@
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\bin\Debug\net10.0\Lessons.exe
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\bin\Debug\net10.0\Lessons.deps.json
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\bin\Debug\net10.0\Lessons.runtimeconfig.json
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\bin\Debug\net10.0\Lessons.dll
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\bin\Debug\net10.0\Lessons.pdb
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\obj\Debug\net10.0\Lessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\obj\Debug\net10.0\Lessons.AssemblyInfoInputs.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\obj\Debug\net10.0\Lessons.AssemblyInfo.cs
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\obj\Debug\net10.0\Lessons.csproj.CoreCompileInputs.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\obj\Debug\net10.0\Lessons.dll
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\obj\Debug\net10.0\refint\Lessons.dll
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\obj\Debug\net10.0\Lessons.pdb
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\obj\Debug\net10.0\Lessons.genruntimeconfig.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Lessons\obj\Debug\net10.0\ref\Lessons.dll
