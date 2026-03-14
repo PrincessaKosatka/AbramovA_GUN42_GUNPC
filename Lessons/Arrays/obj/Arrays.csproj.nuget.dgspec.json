@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Lessons\\Lessons.csproj": {}
+    "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Lessons\\Lessons.csproj": {
+    "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Lessons\\Lessons.csproj",
-        "projectName": "Lessons",
-        "projectPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Lessons\\Lessons.csproj",
+        "projectUniqueName": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Arrays\\Arrays.csproj",
+        "projectName": "Arrays",
+        "projectPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\BIG BERTA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Lessons\\obj\\",
+        "outputPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BIG BERTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
