@@ -1,0 +1,15 @@
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\bin\Debug\net10.0\Assignment for the lesson Cycles.exe
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\bin\Debug\net10.0\Assignment for the lesson Cycles.deps.json
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\bin\Debug\net10.0\Assignment for the lesson Cycles.runtimeconfig.json
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\bin\Debug\net10.0\Assignment for the lesson Cycles.dll
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\bin\Debug\net10.0\Assignment for the lesson Cycles.pdb
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\obj\Debug\net10.0\Assignment for the lesson Cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\obj\Debug\net10.0\Assignment for the lesson Cycles.AssemblyInfoInputs.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\obj\Debug\net10.0\Assignment for the lesson Cycles.AssemblyInfo.cs
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\obj\Debug\net10.0\Assignment for the lesson Cycles.csproj.CoreCompileInputs.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\obj\Debug\net10.0\Assignment for the lesson Cycles.sourcelink.json
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\obj\Debug\net10.0\Assignment for the lesson Cycles.dll
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\obj\Debug\net10.0\refint\Assignment for the lesson Cycles.dll
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\obj\Debug\net10.0\Assignment for the lesson Cycles.pdb
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\obj\Debug\net10.0\Assignment for the lesson Cycles.genruntimeconfig.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\Lessons\Assignment for the lesson Cycles\obj\Debug\net10.0\ref\Assignment for the lesson Cycles.dll

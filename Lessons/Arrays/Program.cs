@@ -7,7 +7,7 @@ class Programm
     {
         // Задание А
         // Первый массив Чи́сла Фибона́ччи 
-        int[] Fibonaccinumbers = new int[8] { 0, 1, 1, 2, 3, 5, 8, 13 };
+        int[] Fibonaccinumbers = new int[] { 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 };
 
         // Массив 12 месяцев
         string[] months = new string[] { "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" };
@@ -15,8 +15,8 @@ class Programm
         // Двумерный массив (матрицу) 3x3
         int[,] Matrix = new int[3, 3]
         {
-            { 2, 3, 4 },
-            { 4, 9, 16 },
+            { 2, 3, 4 }, 
+            { 4, 9, 16 }, // Тут можно было написать функцию Math.Pow
             { 8, 27, 64 }
         };
 
