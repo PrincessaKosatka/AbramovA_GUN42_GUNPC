@@ -1,7 +1,4 @@
-﻿using System.Text;
-using System.Text.RegularExpressions;
-
-class Programm
+﻿class Programm
 {
     static void Main(string[] args)
     {
@@ -15,7 +12,7 @@ class Programm
         // Двумерный массив (матрицу) 3x3
         int[,] Matrix = new int[3, 3]
         {
-            { 2, 3, 4 }, 
+            { 2, 3, 4 },
             { 4, 9, 16 }, // Тут можно было написать функцию Math.Pow
             { 8, 27, 64 }
         };

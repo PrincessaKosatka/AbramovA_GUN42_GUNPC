@@ -15,7 +15,7 @@
             Console.WriteLine("Not a number!");
             return;
         }
-        
+
         Console.WriteLine("Enter operator");
         var s = Console.ReadLine();
         var boolvar = true;
@@ -26,7 +26,7 @@
         }
 
         switch (s[0])
-        { 
+        {
             case '+':
                 Console.WriteLine("Result of {0} + {1} = {2}", a, b, a + b);
                 break;
@@ -41,7 +41,7 @@
                 break;
             case '&':
                 Console.WriteLine("Result of {0} & {1} = {2}", a, b, a & b);
-                Console.Write("Result in Binary system = "); 
+                Console.Write("Result in Binary system = ");
                 Console.WriteLine(Convert.ToString(a & b, 2));
                 Console.Write("Result in Hex system = ");
                 Console.WriteLine(Convert.ToString(a & b, 16));
