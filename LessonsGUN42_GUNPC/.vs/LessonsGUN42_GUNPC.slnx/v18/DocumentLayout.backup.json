@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\LessonsGUN42_GUNPC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8673CE09-F249-44D4-A617-35032225F277}|LessonsGUN42_GUNPC\\LessonsGUN42_GUNPC.csproj|c:\\users\\big berta\\desktop\\abramova_gun42_gunpc\\lessonsgun42_gunpc\\lessonsgun42_gunpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8673CE09-F249-44D4-A617-35032225F277}|LessonsGUN42_GUNPC\\LessonsGUN42_GUNPC.csproj|solutionrelative:lessonsgun42_gunpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43F3F768-8C99-7BE2-669D-0380DAA1AF88}|LessonsGUN42_GUNPC\\Cycles HomeWork.csproj|c:\\users\\big berta\\desktop\\abramova_gun42_gunpc\\lessonsgun42_gunpc\\lessonsgun42_gunpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F3F768-8C99-7BE2-669D-0380DAA1AF88}|LessonsGUN42_GUNPC\\Cycles HomeWork.csproj|solutionrelative:lessonsgun42_gunpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -26,11 +30,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\LessonsGUN42_GUNPC\\LessonsGUN42_GUNPC\\Program.cs",
               "RelativeDocumentMoniker": "LessonsGUN42_GUNPC\\Program.cs",
-              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\LessonsGUN42_GUNPC\\LessonsGUN42_GUNPC\\Program.cs*",
-              "RelativeToolTip": "LessonsGUN42_GUNPC\\Program.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAmwDYAAAAHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\LessonsGUN42_GUNPC\\LessonsGUN42_GUNPC\\Program.cs",
+              "RelativeToolTip": "LessonsGUN42_GUNPC\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T16:25:14.377Z",
+              "WhenOpened": "2026-03-23T16:36:43.711Z",
               "EditorCaption": ""
             }
           ]
