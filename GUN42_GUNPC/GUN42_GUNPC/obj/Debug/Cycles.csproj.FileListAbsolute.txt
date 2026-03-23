@@ -5,3 +5,10 @@ C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC Сусдуы\GUN42_G
 C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC Сусдуы\GUN42_GUNPC Сусдуы\obj\Debug\Cycles.csproj.CoreCompileInputs.cache
 C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC Сусдуы\GUN42_GUNPC Сусдуы\obj\Debug\GUN42_GUNPC Сусдуы.exe
 C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC Сусдуы\GUN42_GUNPC Сусдуы\obj\Debug\GUN42_GUNPC Сусдуы.pdb
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\GUN42_GUNPC\bin\Debug\GUN42_GUNPC Сусдуы.exe.config
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\GUN42_GUNPC\bin\Debug\GUN42_GUNPC Сусдуы.exe
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\GUN42_GUNPC\bin\Debug\GUN42_GUNPC Сусдуы.pdb
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\GUN42_GUNPC\obj\Debug\Cycles.csproj.AssemblyReference.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\GUN42_GUNPC\obj\Debug\Cycles.csproj.CoreCompileInputs.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\GUN42_GUNPC\obj\Debug\GUN42_GUNPC Сусдуы.exe
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\GUN42_GUNPC\obj\Debug\GUN42_GUNPC Сусдуы.pdb
