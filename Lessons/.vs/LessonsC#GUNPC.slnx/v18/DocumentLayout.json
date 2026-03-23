@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B2C3846-B25D-44D0-9C14-EF2D66FC86B1}|Assignment for the lesson Cycles\\Assignment for the lesson Cycles.csproj|c:\\users\\big berta\\desktop\\abramova_gun42_gunpc\\lessons\\assignment for the lesson cycles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B2C3846-B25D-44D0-9C14-EF2D66FC86B1}|Assignment for the lesson Cycles\\Assignment for the lesson Cycles.csproj|solutionrelative:assignment for the lesson cycles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02E98061-0775-48B6-88AC-8C031F30E157}|Arrays\\Arrays.csproj|c:\\users\\big berta\\desktop\\abramova_gun42_gunpc\\lessons\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02E98061-0775-48B6-88AC-8C031F30E157}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B99C28D-C420-4E3B-AA13-C07DFE1FC51D}|Homework Arrays\\Homework Arrays.csproj|c:\\users\\big berta\\desktop\\abramova_gun42_gunpc\\lessons\\homework arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B99C28D-C420-4E3B-AA13-C07DFE1FC51D}|Homework Arrays\\Homework Arrays.csproj|solutionrelative:homework arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "Arrays\\Program.cs",
-              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Arrays\\Program.cs",
-              "RelativeToolTip": "Arrays\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAkAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T11:30:30.142Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Assignment for the lesson Cycles\\Program.cs",
-              "RelativeDocumentMoniker": "Assignment for the lesson Cycles\\Program.cs",
-              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Assignment for the lesson Cycles\\Program.cs",
-              "RelativeToolTip": "Assignment for the lesson Cycles\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Homework Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Homework Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\Lessons\\Homework Arrays\\Program.cs",
+              "RelativeToolTip": "Homework Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T11:14:27.057Z",
+              "WhenOpened": "2026-03-23T15:57:37.507Z",
               "EditorCaption": ""
             }
           ]

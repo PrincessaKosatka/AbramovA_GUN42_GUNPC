@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assignment for the lesson Cycles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aa82cc4da5df529a12381af139ed156177bc8f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dcf0b10be8d0f5c626702c80964d319cbf35f90")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assignment for the lesson Cycles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assignment for the lesson Cycles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
