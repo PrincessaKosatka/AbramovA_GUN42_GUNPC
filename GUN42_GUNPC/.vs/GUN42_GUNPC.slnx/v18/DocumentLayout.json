@@ -3,11 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9089DA1B-F6CF-41EE-A613-DFE7F0C6A77D}|GUN42_GUNPC\\Cycles.csproj|c:\\users\\big berta\\desktop\\abramova_gun42_gunpc\\gun42_gunpc\\gun42_gunpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9089DA1B-F6CF-41EE-A613-DFE7F0C6A77D}|GUN42_GUNPC\\Cycles.csproj|solutionrelative:gun42_gunpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC \u0421\u0443\u0441\u0434\u0443\u044B\\GUN42_GUNPC \u0421\u0443\u0441\u0434\u0443\u044B\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BED45380-97AC-4E2B-9C9C-11FB2C3325E2}|ClassesHomeWork\\ClassesHomeWork.csproj|c:\\users\\big berta\\desktop\\abramova_gun42_gunpc\\gun42_gunpc\\classeshomework\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED45380-97AC-4E2B-9C9C-11FB2C3325E2}|ClassesHomeWork\\ClassesHomeWork.csproj|solutionrelative:classeshomework\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,26 +31,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\GUN42_GUNPC\\Program.cs",
-              "RelativeDocumentMoniker": "GUN42_GUNPC\\Program.cs",
-              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\GUN42_GUNPC\\Program.cs",
-              "RelativeToolTip": "GUN42_GUNPC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\ClassesHomeWork\\Unit.cs",
+              "RelativeDocumentMoniker": "ClassesHomeWork\\Unit.cs",
+              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\ClassesHomeWork\\Unit.cs",
+              "RelativeToolTip": "ClassesHomeWork\\Unit.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T17:02:28.293Z",
+              "WhenOpened": "2026-04-05T07:35:19.329Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC \u0421\u0443\u0441\u0434\u0443\u044B\\GUN42_GUNPC \u0421\u0443\u0441\u0434\u0443\u044B\\Program.cs",
-              "RelativeDocumentMoniker": "..\\GUN42_GUNPC \u0421\u0443\u0441\u0434\u0443\u044B\\GUN42_GUNPC \u0421\u0443\u0441\u0434\u0443\u044B\\Program.cs",
-              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC \u0421\u0443\u0441\u0434\u0443\u044B\\GUN42_GUNPC \u0421\u0443\u0441\u0434\u0443\u044B\\Program.cs",
-              "RelativeToolTip": "..\\GUN42_GUNPC \u0421\u0443\u0441\u0434\u0443\u044B\\GUN42_GUNPC \u0421\u0443\u0441\u0434\u0443\u044B\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T16:56:49.157Z"
             }
           ]
         }
