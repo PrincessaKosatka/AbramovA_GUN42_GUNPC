@@ -1,0 +1,7 @@
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\MemoryHomework\bin\Debug\MemoryHomework.exe.config
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\MemoryHomework\bin\Debug\MemoryHomework.exe
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\MemoryHomework\bin\Debug\MemoryHomework.pdb
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\MemoryHomework\obj\Debug\MemoryHomework.csproj.AssemblyReference.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\MemoryHomework\obj\Debug\MemoryHomework.csproj.CoreCompileInputs.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\MemoryHomework\obj\Debug\MemoryHomework.exe
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\MemoryHomework\obj\Debug\MemoryHomework.pdb
