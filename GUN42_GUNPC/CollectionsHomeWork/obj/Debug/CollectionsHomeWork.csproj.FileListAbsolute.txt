@@ -1,0 +1,7 @@
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\CollectionsHomeWork\obj\Debug\CollectionsHomeWork.csproj.AssemblyReference.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\CollectionsHomeWork\obj\Debug\CollectionsHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\CollectionsHomeWork\bin\Debug\CollectionsHomeWork.exe.config
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\CollectionsHomeWork\bin\Debug\CollectionsHomeWork.exe
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\CollectionsHomeWork\bin\Debug\CollectionsHomeWork.pdb
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\CollectionsHomeWork\obj\Debug\CollectionsHomeWork.exe
+C:\Users\BIG BERTA\Desktop\AbramovA_GUN42_GUNPC\GUN42_GUNPC\CollectionsHomeWork\obj\Debug\CollectionsHomeWork.pdb
