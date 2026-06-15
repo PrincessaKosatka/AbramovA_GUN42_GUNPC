@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\ClassesHomeWork\\ClassesHomeWork.csproj": {}
+    "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\Strings and Symbols\\Strings and Symbols.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\ClassesHomeWork\\ClassesHomeWork.csproj": {
+    "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\Strings and Symbols\\Strings and Symbols.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\ClassesHomeWork\\ClassesHomeWork.csproj",
-        "projectName": "ClassesHomeWork",
-        "projectPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\ClassesHomeWork\\ClassesHomeWork.csproj",
+        "projectUniqueName": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\Strings and Symbols\\Strings and Symbols.csproj",
+        "projectName": "Strings and Symbols",
+        "projectPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\Strings and Symbols\\Strings and Symbols.csproj",
         "packagesPath": "C:\\Users\\BIG BERTA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\ClassesHomeWork\\obj\\",
+        "outputPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\Strings and Symbols\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BIG BERTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
