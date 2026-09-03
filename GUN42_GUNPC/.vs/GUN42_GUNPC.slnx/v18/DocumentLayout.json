@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8156C082-3230-49E8-9D13-03BB93451E50}|Strings and Symbols\\Strings and Symbols.csproj|c:\\users\\big berta\\desktop\\abramova_gun42_gunpc\\gun42_gunpc\\strings and symbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8156C082-3230-49E8-9D13-03BB93451E50}|Strings and Symbols\\Strings and Symbols.csproj|solutionrelative:strings and symbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E88DA2A-4B69-4BC4-B88A-0EC09BB1D26D}|CollectionsHomeWork\\CollectionsHomeWork.csproj|c:\\users\\big berta\\desktop\\abramova_gun42_gunpc\\gun42_gunpc\\collectionshomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E88DA2A-4B69-4BC4-B88A-0EC09BB1D26D}|CollectionsHomeWork\\CollectionsHomeWork.csproj|solutionrelative:collectionshomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{403D4308-F186-4D72-AE75-460B480C87BB}|GamePrototype\\GamePrototype.csproj|c:\\users\\big berta\\desktop\\abramova_gun42_gunpc\\gun42_gunpc\\gameprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403D4308-F186-4D72-AE75-460B480C87BB}|GamePrototype\\GamePrototype.csproj|solutionrelative:gameprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -36,26 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\Strings and Symbols\\Program.cs",
-              "RelativeDocumentMoniker": "Strings and Symbols\\Program.cs",
-              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\Strings and Symbols\\Program.cs",
-              "RelativeToolTip": "Strings and Symbols\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvzwAAAA/AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\GamePrototype\\Program.cs",
+              "RelativeDocumentMoniker": "GamePrototype\\Program.cs",
+              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\GamePrototype\\Program.cs",
+              "RelativeToolTip": "GamePrototype\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T12:47:49.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\CollectionsHomeWork\\Program.cs",
-              "RelativeDocumentMoniker": "CollectionsHomeWork\\Program.cs",
-              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\CollectionsHomeWork\\Program.cs",
-              "RelativeToolTip": "CollectionsHomeWork\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T13:15:18.117Z",
+              "WhenOpened": "2026-09-03T12:31:36.638Z",
               "EditorCaption": ""
             }
           ]

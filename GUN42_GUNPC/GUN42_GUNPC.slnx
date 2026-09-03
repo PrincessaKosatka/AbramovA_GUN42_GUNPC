@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="ClassesHomeWork/ClassesHomeWork.csproj" Id="bed45380-97ac-4e2b-9c9c-11fb2c3325e2" />
   <Project Path="CollectionsHomeWork/CollectionsHomeWork.csproj" Id="9e88da2a-4b69-4bc4-b88a-0ec09bb1d26d" />
+  <Project Path="GamePrototype/GamePrototype.csproj" Id="403d4308-f186-4d72-ae75-460b480c87bb" />
   <Project Path="GUN42_GUNPC/Cycles.csproj" Id="9089da1b-f6cf-41ee-a613-dfe7f0c6a77d" />
   <Project Path="MemoryHomework/MemoryHomework.csproj" Id="bce821d1-7517-4c06-ae4f-b1ee22828252" />
   <Project Path="Strings and Symbols/Strings and Symbols.csproj" Id="8156c082-3230-49e8-9d13-03bb93451e50" />
