@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BED45380-97AC-4E2B-9C9C-11FB2C3325E2}|ClassesHomeWork\\ClassesHomeWork.csproj|c:\\users\\big berta\\desktop\\abramova_gun42_gunpc\\gun42_gunpc\\classeshomework\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED45380-97AC-4E2B-9C9C-11FB2C3325E2}|ClassesHomeWork\\ClassesHomeWork.csproj|solutionrelative:classeshomework\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,11 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -29,17 +28,8 @@
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Unit.cs",
-              "DocumentMoniker": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\ClassesHomeWork\\Unit.cs",
-              "RelativeDocumentMoniker": "ClassesHomeWork\\Unit.cs",
-              "ToolTip": "C:\\Users\\BIG BERTA\\Desktop\\AbramovA_GUN42_GUNPC\\GUN42_GUNPC\\ClassesHomeWork\\Unit.cs",
-              "RelativeToolTip": "ClassesHomeWork\\Unit.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T07:35:19.329Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
